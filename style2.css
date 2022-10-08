@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: rgb(174, 220, 35);
+}
+
+#titulo{
+    text-align: center;
+}
+
+#btnRegistro{
+    text-align: center;
+}
